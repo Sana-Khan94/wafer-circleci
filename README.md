@@ -215,7 +215,10 @@ git push
 ```
 
     
-    
+### For Deployment Prediction Link
+
+https://wafer-circleci1.herokuapp.com/
+
     
     
     
